@@ -33,6 +33,7 @@ compared using test mean squared error.
   and comparing the five classification models predicting law presence/absence
 - `violent_crime_regression_models.html` — R code (rendered from R Markdown) 
   fitting and comparing regression models predicting violent crime rate
+- `final_report.pdf`— Full written-up report of project findings, including visualizations.
 
 ## Skills Demonstrated
 - Data cleaning and train/test partitioning
